@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="dt-snippets",
+    name="dt_snippets",
     version="1.0.0",
     author="Miguel Ángel Jiménez Cuadrillero",
     author_email="miguelangeljimenezcuadrillero@gmail.com",
