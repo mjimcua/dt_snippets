@@ -15,7 +15,7 @@ setuptools.setup(
     packages=setuptools.find_packages(),
     classifiers=(
         "Programming Language :: Python :: 3",
-        "License :: Luce IT Copyright",
+        "License :: MIT License",
         "Operating System :: OS Independent",
     ),
     python_requires='~=3.6'
